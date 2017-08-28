@@ -4,6 +4,6 @@ import log
 
 client = discord.Client()
 
-client.run('bot secret code goes here')
+client.run('mcS2YV7R4sIXNdTuhf7FWWn2v4vLEe25')
 
 log.Log("Hello")
